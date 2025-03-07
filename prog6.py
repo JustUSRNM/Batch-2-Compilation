@@ -1,0 +1,13 @@
+X= float(input("Please input a number: "))
+Y= float(input("Please input another number: "))
+Z= float(input("Please input another number: "))
+A= float(input("Please input another number: "))
+B= float(input("Please input another number: "))
+C= float(input("Please input another number: "))
+D= float(input("Please input another number: "))
+E= float(input("Please input another number: "))
+F= float(input("Please input another number: "))
+G= float(input("Please input another number: "))
+
+result= int(X - (Y+Z+A+B+C+D+E+F+G))
+print (result)
